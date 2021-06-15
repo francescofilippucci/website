@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            PORCO DIO
 tagline:          'A Jekyll theme'
-description:      'FF website'
+description:      '<img src="FrancescoFilippucci.jpg" alt="Girl in a jacket" width="500" height="600"> FF website'
 url:              https://fongandrew.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
