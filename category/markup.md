@@ -1,6 +1,6 @@
 ---
-layout: category
-title: Markup
+layout: default
+title: Research
 ---
 
 Another sample category page.
