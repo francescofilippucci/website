@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            PORCO DIO
-tagline:          'A Jekyll theme'
-description:      '<img src="FrancescoFilippucci.jpg" alt="Girl in a jacket" width="500" height="600"> FF website'
+title:            '<img src="FrancescoFilippucci.jpg" alt="ffw" width="500" height="600">'
+tagline:          'Francesco Filippucci >>'
+description:      '<img src="ff.png" alt="" width="200" height="300">'
 url:              https://fongandrew.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
