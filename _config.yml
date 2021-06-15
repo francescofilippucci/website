@@ -7,7 +7,7 @@ title:            '<img src="FrancescoFilippucci.jpg" alt="ffw" width="500" heig
 tagline:          'Francesco Filippucci >>'
 description:      '<img src="ff.png" alt="" width="200" height="300">'
 url:              https://fongandrew.github.io
-baseurl:          '/website'
+baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
