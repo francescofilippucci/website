@@ -8,5 +8,5 @@ sidebar_link: true
   My research focuses on Labor Economics and Public Policy Evaluation. My work applies modern econometrics to achieve valid insights for economics and valuable guidance for policy
 </p>
 
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+
+prova prova <IMG SRC=”lol.png” ALIGN=”left” />
