@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello Hydeout
+title: Highlights
 excerpt_separator:  <!--more-->
 ---
 
