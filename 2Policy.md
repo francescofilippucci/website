@@ -22,7 +22,7 @@ wide time window. Third, a research incubator for supporting, publishing and dif
 <h2>Selected articles</h2> 
 <ul>
   <li><a href="https://www.econopoly.ilsole24ore.com/2021/06/11/lavoro-covid-cig-licenziamenti/"> Lavoro, quali settori sono stati protetti dalle politiche anti-Covid? </a> - Econopoly, Il Sole 24 Ore 06/11/2021</li>
-  <li><a href="https://www.lavoce.info/archives/65919/ripartire-dalle-competenze//"> Competenze sul lavoro, la crisi come opportunit\`a  </a> - Lavoce.info, 4/24/2020 </li>
+  <li><a href="https://www.lavoce.info/archives/65919/ripartire-dalle-competenze//"> Competenze sul lavoro, la crisi come opportunit&agrave;   </a> - Lavoce.info, 4/24/2020 </li>
   <li><a href="https://www.lavoce.info/archives/69032/dai-dati-comunali-una-mappa-del-rischio-coronavirus/"> Dai dati comunali una mappa del rischio coronavirus</a> - Lavoce.info, 8/25/2020</li>
   <li><a href="https://www.lastampa.it/topnews/edizioni-locali/torino/2019/12/13/news/la-ricerca-milano-corre-torino-e-genova-arrancano-in-piemonte-vissuta-una-grande-depressione-1.38205031">La ricerca: Milano corre, Torino e Genova arrancano </a> - La Stampa, 12/13/2019</li>
   <li><a href="https://drive.google.com/file/d/1W6CuDFCqyBUf2UqdAk4VEe1-0jhqL9Vv/view?usp=sharing"> La formation professionnelle est-elle un bon investissement? </a> - Personnel,  Dec. 2019 </li>
