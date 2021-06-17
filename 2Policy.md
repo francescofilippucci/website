@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Policy
 sidebar_link: true
 ---
 
