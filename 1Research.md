@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-  My research focuses on Labor Economics and Public Policy Evaluation. My work applies modern econometrics to achieve valid insights for economics and valuable guidance for policy. My PhD thesis evaluates professional training and active labor market policies in France. 
+  My research focuses on Labor Economics and Public Policy Evaluation. I aim at applying modern econometrics to achieve valid insights for economics and valuable guidance for policy. My PhD thesis evaluates professional training and active labor market policies in France. 
 </p>
 
 <h2>What the NEETs need? The Effect of Activation Policies and Cash Transfers</h2> <a href="slides_jun2021.pdf">Slides</a> - Working paper available on request
