@@ -28,16 +28,3 @@ wide time window. Third, a research incubator for supporting, publishing and dif
   <li><a href="https://drive.google.com/file/d/1W6CuDFCqyBUf2UqdAk4VEe1-0jhqL9Vv/view?usp=sharing"> La formation professionnelle est-elle un bon investissement? </a> - Personnel,  Dec. 2019 </li>
   <li><a href="hhttps://drive.google.com/file/d/1ki5k671K4E7RMOkiSP8vw8DOlmzvnSbW/view?usp=sharing">Cos\`i allo stato mancano oltre due milioni di posti</a> - Corriere della Sera, 7/16/2018 </li>  <li><a href="https://drive.google.com/file/d/1i5SZTg5XtGMb34rLU_W9skP3AkoLHHJM/view?usp=sharing">UE, torniamo ad investire sul sociale</a> - Corriere della Sera, 7/5/2018 </li>
 </ul>
-
-
-
- - 
-\href{}{\textit{}} \\
-
- - 
-\href{}{\textit{}} \\
- - 
-\href{https://www.lavoce.info/archives/69032/dai-dati-comunali-una-mappa-del-rischio-coronavirus/}{\textit{}} \\
--
-\href{}{\textit{}} \\
-Articles with Tortuga: \href{https://www.ilfoglio.it/author/Tortuga}{\textit{Il Foglio}}, \href{https://www.linkiesta.it/author/tortuga/}{\textit{Linkiesta}}, \href{https://www.econopoly.ilsole24ore.com/author/teamtortuga/}{\textit{Econopoly (Il Sole 24 Ore)}}, \href{https://it.businessinsider.com/?s=Tortuga}{\textit{Business Insider}}. 
