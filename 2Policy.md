@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-  With my policy work I aim at having an impact on the communities I belong to. I am a founding member of the Local Opportunities Lab and of the think tank Tortuga. My contributions to the public debate appear in national press and specialized outlets in Italy and in France.
+  With my policy work I aim at having an impact on the communities I belong to. I am a founding member of the Local Opportunities Lab, collecting and analyzing local data and policy, and of the think tank of young economists Tortuga. My contributions to the public debate include articles in national and specialized press.
 </p>
 
 <h2>The Local Opportunities Lab</h2> <a href="https://www.localopportunitieslab.it/">localopportunitieslab.it</a>
