@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            FF
 tagline:          'Francesco Filippucci'
-description:      'Francesco Filippucci website'
+description:      'Francesco Filippucci&#39; website'
 url:              https://fongandrew.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
