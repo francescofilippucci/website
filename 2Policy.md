@@ -5,8 +5,8 @@ sidebar_link: true
 ---
 
 <p class="message">
-  My research focuses on Labor Economics and Public Policy Evaluation. My work applies modern econometrics to achieve valid insights for economics and valuable guidance for policy
+  I belive economics has to serve society. With my policy work, I aim at having impact on the communities I belong to. 
 </p>
 
-
-prova prova sa sa <img src="lol.png" ALIGN="left">
+<h1>Local Opportunities Lab</h1> <a href="https://www.localopportunitieslab.it/">localopportunitieslab.it</a>
+ <img src="lol.png" ALIGN="left">
