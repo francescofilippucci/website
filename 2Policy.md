@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-  I believe economics has to serve society. With my policy work, as a founding member of the Local Opportunities Lab and of the think tank Tortuga, I aim at having impact on the communities I belong to. 
+  With my policy work I aim at having an impact on the communities I belong to. I am a founding member of the Local Opportunities Lab and of the think tank Tortuga. My contributions to the public debate appear in the press and in specialized blogs.
 </p>
 
 <h2>Local Opportunities Lab</h2> <a href="https://www.localopportunitieslab.it/">localopportunitieslab.it</a>
