@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            '<img src="FrancescoFilippucci.jpg" alt="ffw" width="500" height="600"><img src="ff.png" alt="" width="200" height="300">'
+title:            'FFw'
 tagline:          'Francesco Filippucci'
 description:      'Francesco Filippucci's website'
 url:              https://fongandrew.github.io
