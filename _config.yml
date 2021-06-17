@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            FF
 tagline:          'Francesco Filippucci'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'Francesco Filippucci\'s website'
 url:              https://fongandrew.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
