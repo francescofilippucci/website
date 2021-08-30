@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-  My research focuses on Labor and Public Economics. I use policy evaluation to achieve - using administrative data and modern econometrics - valid insights for economics and valuable guidance for policy. My PhD thesis evaluates professional training and active labor market policies in France. 
+  My research focuses on Labor and Public Economics. I use policy evaluation to achieve - using administrative data and modern econometrics - valid insights for economics and valuable guidance for policy. My PhD thesis evaluates professional training and active labor market policies in France. My side work focuses on labor supply and on local public finances in Italy. 
 </p>
 
 <h3>What the NEETs need? The Effect of Activation Policies and Cash Transfers</h3> <a href="slides_jun2021.pdf">Slides</a> - Working paper available on request
@@ -26,3 +26,9 @@ Joint with F. Armillei and T. Fletcher
 <a href="https://www.sciencedirect.com/science/article/pii/S1570677X21000423">Published on Economics and Human Biology</a> - <a href="Covid_Paper_2_0___Published (1).pdf">Preprint</a> - A previous version circulated as a <a href="https://www.localopportunitieslab.it/wp-content/uploads/2020/10/Covid_paper-4.pdf">LOL working paper</a> - <a href="https://www.lavoce.info/archives/69032/dai-dati-comunali-una-mappa-del-rischio-coronavirus/">Press article</a>.
 
   <p style="font-size:70%"><img src="extra_march_by_classe.png" ALIGN="right" width="500" height="600">The first wave of Covid-19 pandemic had a geographically heterogeneous impact even within the most severely hit regions. Exploiting a triple-differences methodology, we find that in Italy Covid-19 hit relatively harder in peripheral areas: the excess mortality in peripheral areas was almost double that of central ones in March 2020 (1.2 additional deaths every 1000 inhabitants). We leverage a rich dataset on Italian municipalities to explore mechanisms behind this gradient. We first show that socio-demographic and economic features at municipal level are highly collinear, making it hard to identify single-variable causal relationships. Using Principal Components Analysis we model excess mortality and show that areas with higher excess mortality have lower income, lower education, larger households, lower trade and higher industrial employments, and older population. Our findings highlight a strong centre-periphery gradient in the harshness of Covid-19, which we believe is also highly relevant from a policy-making standpoint.</p>
+
+
+   <button type="button" class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum...</p>
+</div> 

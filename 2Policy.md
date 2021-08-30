@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-  With my policy work I aim at having an impact on the communities I belong to. I am a founding member of the Local Opportunities Lab, collecting and analyzing local data and policy, and of the think tank of young economists Tortuga. My contributions to the public debate include articles in national and specialized press.
+  My policy work is tightly related to my research: the analysis of current affairs allows me to get relevant research ideas, build useful infrastructure in terms of data and methods, and valorize my scientific results. I am a founding member of the Local Opportunities Lab, collecting and analyzing local data and policy in Italy, and of the think tank of young economists Tortuga. My contributions to the public debate include articles in national and specialized press.
 </p>
 
 <h2>The Local Opportunities Lab</h2> <a href="https://www.localopportunitieslab.it/">localopportunitieslab.it</a>  - Associate researcher
