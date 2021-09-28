@@ -17,7 +17,7 @@ sidebar_link: true
 policies and support projects that aim at having an impact at the micro-economic level. The Lab is built on 4 pillars. First, a network of researchers and institutions focusing on the study of socio-economic phenomena at a granular level. Second, a dataset that collects and harmonizes a large number of variables at the municipality or sub-municipality level and within a
 wide time window. Third, a research incubator for supporting, publishing and diffusing contents on local economies (both for public and academia). Finally, a support tool for private and public institutions, interested in running research and projects using the data. 
 
-<h2>Tortuga</h2> <a href="https://www.tortuga-econ.it/">tortugaecon.eu</a> - Co-founder
+<h2>Tortuga</h2> <a href="https://www.tortuga-econ.it/">tortugaecon.eu</a> - Co-founder (alumnus since 2021)
 
 <img src="tortuga.png" ALIGN="right" width="300" height="400">Tortuga is the first think tank of young economists in Italy. Tortuga produces analysis and research on economic and political current affairs, develops policy proposals and supports institutions in the field of policy-making. Started by 6 students in 2015, nowadays counts more than 50 associates. The mission of Tortuga is to promote growth and equity, particularly inter-generational equity, through a more efficient policy-making in Italy. In 2019 we wrote a book, "Ci Pensiamo Noi", launching 10 policy proposals for youths in Italy.
 
