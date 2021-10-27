@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-  My fields of research are Labor and Public Economics, where I focus on policy evaluation and on using its results to derive relevant structural parameters. My PhD thesis evaluates three different public policies -- a combination of activation policies and cash transfers, an individual learning account, and restraints to local authorities spending -- to derive insights on, respectively, job search behavior, the elasticities of demand/supply of training, and the local spending multiplier. 
+  My fields of research are Labor and Public Economics. I focus on policy evaluation and on using its results to derive relevant structural parameters. My PhD thesis exploits a program for NEETs, an individual learning account, and local budget rules to derive insights on -- respectively -- job search behavior, the elasticities of training supply, and the local spending multiplier. 
 </p>
 <h2>Job Market Paper</h2>
 
