@@ -16,7 +16,7 @@ sidebar_link: true
 <h3>Who Profits from Training Subsidies? Evidence from a French Individual Learning Account</h3> 
 Joint with E. Corazza 
 
-<a href="presentation_chaire_nov2020.pdf">Slides</a> - Working paper available on request
+<a href="presentation_chaire_nov2020.pdf">Slides</a>- <a href="Draft_CPF.pdf">Draft</a>
 
 <p style="font-size:70%"><img src="treatment.png" ALIGN="right" width="200" height="300">This paper studies the incidence and welfare effects of a particular kind of training subsidies, Individual Learning Accounts (ILA). We exploit a natural experiment provided by the reform of a French ILA, the <i>Compte personnel de formation</i> (CPF). First, we theoretically model the impact of changing the per-hour subsidy rate on demand and supply for training, using a simple partial equilibrium model. Informed by this, we study the impact of a reform of 2019, which differentially lowered the per-hour value of the CPF subsidy across industries. We highlight three results. First, the supply of training is between 15% and 50% less elastic than demand, so that more than half of the benefit of the subsidy is captured by training producers. Second, total hours of training undertaken are not significantly affected by subsidy changes, leading to estimates of demand and supply elasticities which are close to zero. This makes CPF subsidy a simple transfer to producers and trainees. The silver lining is that, when studied through the lenses of a sufficient statistics framework, the efficiency cost of CPF is also low. Third, we use data on revenues and expenses of training to see that the reduction of the subsidy eventually translates in a reduction of producers' profits, with no effect on labor costs and employment of trainers.</p>
 
