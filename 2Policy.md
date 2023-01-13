@@ -7,19 +7,22 @@ sidebar_link: true
 <p class="message">
   My policy work is tightly related to my research: the analysis of current affairs allows me to get relevant research ideas, build useful datasets and methods, and valorize my results. 
   
-  I am a founding member of the Local Opportunities Lab, collecting and analyzing local data and policy in Italy, and of the think tank of young economists Tortuga. My contributions to the public debate include articles in national and specialized press.
+  I am a researcher at the Institute for Public Policies, I was a member of the Technical Task-Force for Economic Policy (NTPE) of Italian Presidency of the Council working on the evaluation of public investment programs in education and innovation, and I was the founder of the think tank of young economists Tortuga. My contributions to the public debate include articles in national and specialized press.
 </p>
 
-<h2>The Local Opportunities Lab</h2> <a href="https://www.localopportunitieslab.it/">localopportunitieslab.it</a>  - Associate researcher
+<h2>Institut de Politiques Publiques</h2> <a href="https://www.ipp.eu/">ipp.eu</a> - Economist  
 
 
-<img src="lol.png" ALIGN="right" width="300" height="400">The Local Opportunities Lab is the first hub in Italy on granular data, local opportunities and geographical inequalities. The mission of the Lab is to promote scientific research and data-driven policy on local economies, study the efficiency and equity of public
-policies and support projects that aim at having an impact at the micro-economic level. The Lab is built on 4 pillars. First, a network of researchers and institutions focusing on the study of socio-economic phenomena at a granular level. Second, a dataset that collects and harmonizes a large number of variables at the municipality or sub-municipality level and within a
-wide time window. Third, a research incubator for supporting, publishing and diffusing contents on local economies (both for public and academia). Finally, a support tool for private and public institutions, interested in running research and projects using the data. 
+<img src="lol.png" ALIGN="right" width="300" height="400">I am principal investigator for a project evaluating the impact of apprenticeships subsidies included in the French pandemic recovery plan.
+
+<h2>Technical Task-Force for Economic Policy (NTPE) </h2> -- Italian Presidency of the Council
+
+
+<img src="lol.png" ALIGN="right" width="300" height="400">The task force produced policy briefs on the potential impact at the municipality level of the Mission 1 (Digitalization and Innovation) and 4 (Education and Research) of the National Recovery and Resilience Plan. 
 
 <h2>Tortuga</h2> <a href="https://www.tortuga-econ.it/">tortugaecon.eu</a> - Co-founder (alumnus since 2021)
 
-<img src="tortuga.png" ALIGN="right" width="300" height="400">Tortuga is the first think tank of young economists in Italy. Tortuga produces analysis and research on economic and political current affairs, develops policy proposals and supports institutions in the field of policy-making. Started by 6 students in 2015, nowadays counts more than 50 associates. The mission of Tortuga is to promote growth and equity, particularly inter-generational equity, through a more efficient policy-making in Italy. In 2019 we wrote a book, "Ci Pensiamo Noi", launching 10 policy proposals for youths in Italy.
+<img src="tortuga.png" ALIGN="right" width="300" height="400">Tortuga is the first think tank of young economists in Italy, producing analysis and research on economic current affairs. Started by 6 students in 2015, nowadays counts more than 50 associates. The mission of Tortuga is to promote growth and equity, particularly inter-generational equity, through a more efficient policy-making in Italy. In 2019 we wrote a book, "Ci Pensiamo Noi", launching 10 policy proposals for youths in Italy.
 
 <h2>Selected articles</h2> 
 <ul>
