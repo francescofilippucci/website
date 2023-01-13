@@ -13,12 +13,12 @@ sidebar_link: true
 <h2>Institut de Politiques Publiques</h2> <a href="https://www.ipp.eu/">ipp.eu</a> - Economist  
 
 
-<img src="ipp.png" ALIGN="right" width="200" height="300">I am principal investigator for a project evaluating the impact of apprenticeships subsidies in the context of the French pandemic recovery plan. The project is financed by France Strategie and co-authored with Audrey Rain.
+<img src="ipp.png" ALIGN="right" width="150" height="200">I am principal investigator for a project evaluating the impact of apprenticeships subsidies in the context of the French pandemic recovery plan. The project is financed by France Strategie and co-authored with Audrey Rain.
 
 <h2>Technical Task-Force for Economic Policy (NTPE) </h2> Italian Presidency of the Council
 
 
-<img src="chigi.png" ALIGN="right" width="200" height="300">The task force produced policy briefs on the potential impact at the municipality level of the Mission 1 (Digitalization and Innovation, jointly with Carlo Cambini) and 4 (Education and Research, jointly with Jacopo Bassetto) of the National Recovery and Resilience Plan. 
+<img src="chigi.png" ALIGN="right" width="150" height="200">The task force produced policy briefs on the potential impact at the municipality level of the Mission 1 (Digitalization and Innovation, jointly with Carlo Cambini) and 4 (Education and Research, jointly with Jacopo Bassetto) of the National Recovery and Resilience Plan. 
 
 <h2>Tortuga</h2> <a href="https://www.tortuga-econ.it/">tortugaecon.eu</a> - Co-founder (alumnus since 2021)
 
