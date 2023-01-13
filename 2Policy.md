@@ -22,7 +22,7 @@ sidebar_link: true
 
 <h2>Tortuga</h2> <a href="https://www.tortuga-econ.it/">tortugaecon.eu</a> - Co-founder (alumnus since 2021)
 
-<img src="tortuga.png" ALIGN="right" width="300" height="400">Tortuga is the first think tank of young economists in Italy, producing analysis and research on economic current affairs. Started by 6 students in 2015, nowadays counts more than 50 associates. The mission of Tortuga is to promote growth and equity, particularly inter-generational equity, through a more efficient policy-making in Italy. In 2019 we wrote a book, "Ci Pensiamo Noi", launching 10 policy proposals for youths in Italy.
+<img src="tortuga.png" ALIGN="right" width="150" height="200">Tortuga is the first think tank of young economists in Italy, producing analysis and research on economic current affairs. Started by 6 students in 2015, nowadays counts more than 50 associates. The mission of Tortuga is to promote growth and equity, particularly inter-generational equity, through a more efficient policy-making in Italy. In 2019 we wrote a book, "Ci Pensiamo Noi", launching 10 policy proposals for youths in Italy.
 
 <h2>Selected articles</h2> 
 <ul>
