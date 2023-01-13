@@ -15,7 +15,7 @@ sidebar_link: true
 
 <img src="ipp.png" ALIGN="right" width="150" height="200">I am principal investigator for the impact evaluation of the temporary apprenticeships subsidies, introduced by the French pandemic recovery plan. The project is financed by the French Government, and conducted within the Institute for Public Policies (Institut de Politiques Publiques, IPP), co-authored with Audrey Rain.
 
-<h2>Technical Task-Force for Economic Policy (NTPE) </h2> Italian Presidency of the Council
+<h2>Italian Presidency of the Council </h2> Technical Task-Force for Economic Policy (NTPE) 
 
 
 <img src="chigi.png" ALIGN="right" width="150" height="200">The task force produced policy briefs on the potential impact at the municipality level of the Mission 1 (Digitalization and Innovation, jointly with Carlo Cambini) and 4 (Education and Research, jointly with Jacopo Bassetto) of the National Recovery and Resilience Plan. 
