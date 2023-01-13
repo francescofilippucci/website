@@ -7,7 +7,7 @@ sidebar_link: true
 <p class="message">
   My policy work is tightly related to my research: the analysis of current affairs allows me to get relevant research ideas, build useful datasets and methods, and valorize my results. 
   
-  I am a researcher at the Institute for Public Policies, I was a member of the Technical Task-Force for Economic Policy (NTPE) of Italian Presidency of the Council working on the evaluation of public investment programs in education and innovation, and I was the founder of the think tank of young economists Tortuga. My contributions to the public debate include articles in national and specialized press.
+  I worked with the Institute for Public Policies, with the Technical Task-Force for Economic Policy (NTPE) of Italian Presidency of the Council, and I was the founder of the think tank of young economists Tortuga. My contributions to the public debate include articles in national and specialized press.
 </p>
 
 <h2>Institut de Politiques Publiques</h2> <a href="https://www.ipp.eu/">ipp.eu</a> - Economist  
