@@ -23,7 +23,9 @@ Joint with E. Corazza
 
 <h3>The Impact of Fiscal Austerity on Local Economies</h3> 
 Joint with A. Cerrato
+
 <a href="Draft_austerity.pdf">Draft</a>
+
 <p style="font-size:70%">	Fiscal consolidation is often a necessity for local governments, but the cost of austerity for local economic activity is an open empirical question. Quasi-experimental estimates of local fiscal multipliers range between 1.5 and 1.8, but most of them are obtained from expansionary shocks. We study the extension of tighter budget rules in 2013 to Italian municipalities below 5,000 inhabitants, which generates a persistent increase of about 100 Euros per capita (0.5\% of local income) in municipal net budget surplus, mostly driven by a cut in capital expenditures. We find no decrease in local income over a eight-year horizon. The estimated multiplier is always not significantly different from zero, and we can exclude it is above 1.5 with 95\% confidence within 4 years from the shock. We find no evidence of spillovers to neighboring municipalities. These results suggest that the cost of fiscal consolidation can be lower than what currently prevailing estimates of local multipliers imply.</p>
 
 <h2>Publications</h2>
