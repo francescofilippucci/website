@@ -7,13 +7,13 @@ sidebar_link: true
 <p class="message">
   My policy work is tightly related to my research: the analysis of current affairs allows me to get relevant research ideas, build useful datasets and methods, and valorize my results. 
   
-  I worked with the Institute for Public Policies, with the Technical Task-Force for Economic Policy (NTPE) of Italian Presidency of the Council, and I was the founder of the think tank of young economists Tortuga. My contributions to the public debate include articles in national and specialized press.
+  I worked as a policy evaluator with the Institute for Public Policies and for the Italian Presidency of the Council. I was the founder of the think tank of young economists Tortuga, and my contributions to the public debate include articles in national and specialized press.
 </p>
 
-<h2>Institut de Politiques Publiques</h2> <a href="https://www.ipp.eu/">ipp.eu</a> - Economist  
+<h2>Institute for Public Policies</h2> <a href="https://www.ipp.eu/">ipp.eu</a> - Economist  
 
 
-<img src="ipp.png" ALIGN="right" width="150" height="200">I am principal investigator for a project evaluating the impact of apprenticeships subsidies in the context of the French pandemic recovery plan. The project is financed by France Strategie and co-authored with Audrey Rain.
+<img src="ipp.png" ALIGN="right" width="150" height="200">I am principal investigator for the impact evaluation of the temporary apprenticeships subsidies, introduced by the French pandemic recovery plan. The project is financed by the French Government, and conducted within the Institute for Public Policies (Institut de Politiques Publiques, IPP), co-authored with Audrey Rain.
 
 <h2>Technical Task-Force for Economic Policy (NTPE) </h2> Italian Presidency of the Council
 
