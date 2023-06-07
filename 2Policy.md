@@ -10,17 +10,17 @@ sidebar_link: true
   I worked as a policy evaluator with the Institute for Public Policies and for the Italian Presidency of the Council. I was the founder of the think tank of young economists Tortuga, and my contributions to the public debate include articles in national and specialized press.
 </p>
 
-<h2>Institute for Public Policies</h2> <a href="https://www.ipp.eu/">ipp.eu</a> - Economist  
+<h2>Institute for Public Policies</h2> <a href="https://www.ipp.eu/">ipp.eu</a> - Affiliated Economist  
 
 
 <img src="ipp.png" ALIGN="right" width="150" height="200">I am principal investigator for the impact evaluation of the temporary apprenticeships subsidies, introduced by the French pandemic recovery plan. The project is financed by the French Government, and conducted within the Institute for Public Policies (Institut de Politiques Publiques, IPP), co-authored with Audrey Rain.
 
-<h2>Italian Presidency of the Council </h2> Technical Task-Force for Economic Policy (NTPE, 2022) 
+<h2>Italian Presidency of the Council </h2> Technical Task-Force for Economic Policy (2022) 
 
 
 <img src="chigi.png" ALIGN="right" width="150" height="200">The task force produced policy briefs on the potential impact at the municipality level of the Mission 1 (Digitalization and Innovation, jointly with Carlo Cambini) and 4 (Education and Research, jointly with Jacopo Bassetto) of the National Recovery and Resilience Plan. 
 
-<h2>Tortuga</h2> <a href="https://www.tortuga-econ.it/">tortugaecon.eu</a> - Co-founder (alumnus since 2021)
+<h2>Tortuga</h2> <a href="https://www.tortuga-econ.it/">tortugaecon.eu</a> - Co-founder (2015-2021)
 
 <img src="tortuga.png" ALIGN="right" width="200" height="300">Tortuga is the first think tank of young economists in Italy, producing analysis and research on economic current affairs. Started by 6 students in 2015, nowadays counts more than 50 associates. The mission of Tortuga is to promote growth and equity, particularly inter-generational equity, through a more efficient policy-making in Italy. In 2019 we wrote a book, "Ci Pensiamo Noi", launching 10 policy proposals for youths in Italy.
 
