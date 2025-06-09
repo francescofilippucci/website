@@ -25,23 +25,23 @@ sidebar_link: true
 </p>
 
 <h3>Balanced Budget Requirements and Local Austerity Multipliers</h3>
-<p> Joint with A. Cerrato and S. Valle<br>
+<p> Joint with A. Cerrato and S. Valle --
 <em>Submitted</em> --  <a href="draft_austerity.pdf">Draft</a>
 </p>
 
 <h3>How Big Is the Big Push? The Macroeconomic Effects of a Large-Scale Regional Development Program</h3>
-<p> Joint with A. Cerrato<br>
+<p> Joint with A. Cerrato --
  <em>Submitted</em>
 </p>
 
 <h3>Aggregate Productivity Gains from Artificial Intelligence: a Sectoral Perspective</h3>
-<p> Joint with P. Gal and M. Schief<br>
+<p> Joint with P. Gal and M. Schief --
  <em>Submitted</em><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260318">Pre-print</a>
 </p>
 
 <h2>Publications</h2>
 
 <h3><a href="https://www.sciencedirect.com/science/article/pii/S1570677X21000423" style="color: black; text-decoration: none;">Did Covid-19 Hit Harder in Peripheral Areas? The Case of Italian Municipalities</a> </h3>
-<p> Joint with F.Armillei and T.<br>
+<p> Joint with F.Armillei and T.Fletcher --
 <em>Economics and Human Biology</em> --  <a href="https://www.lavoce.info/archives/69032/dai-dati-comunali-una-mappa-del-rischio-coronavirus/">Press Article</a>
 </p>
