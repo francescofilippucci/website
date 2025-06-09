@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-My policy work stems from my experience at the <a href="https://www.oecd.org/en/about/directorates/economics-department.html">OECD Economics Department</a>, as well as previous roles at the <a href="https://www.ipp.eu/">French Institute for Public Policy</a> and the Italian Presidency of the Council. I also write for national and specialized media, and I founded <a href="https://www.tortuga-econ.it/">Tortuga </a>, a think tank of young economists, of which I am now a proud alumnus.
+My policy work stems from my experience at the <a href="https://www.oecd.org/en/about/directorates/economics-department.html">OECD Economics Department</a>, as well as previous roles at the <a href="https://www.ipp.eu/">French Institute for Public Policy</a> and the Italian Presidency of the Council. I also write for national and specialized media, and I am an alumnus and founder of <a href="https://www.tortuga-econ.it/">Tortuga </a>, a think tank of young economists.
 </p>
 
 <h2>Publications and Technical Reports</h2>
