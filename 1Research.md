@@ -11,8 +11,7 @@ sidebar_link: true
 <h2>Working Papers</h2>
 
 <h3>What Do NEETs Need? The Effect of Activation Policies and Cash Transfers</h3>
-<p><em>Submitted</em><br>  
-  <a href="slides_job_mkt.pdf">Slides</a> · 
+<p><em>Submitted</em> --  <a href="slides_job_mkt.pdf">Slides</a> · 
   <a href="Filippucci_NEETs.pdf">Draft</a> · 
   <a href="DA_evaluation_GJ.pdf">Policy Note (French Ministry of Labor)</a> · 
   <a href="https://www.lesechos.fr/economie-france/social/emploi-les-effets-positifs-de-la-garantie-jeunes-1898043">Press</a>
@@ -27,10 +26,7 @@ sidebar_link: true
 
 <h3>Balanced Budget Requirements and Local Austerity Multipliers</h3>
 <p> Joint with A. Cerrato and S. Valle<br>
-<em>Submitted</em>
-</p>
-<p>
-  <a href="draft_austerity.pdf">Draft</a>
+<em>Submitted</em> --  <a href="draft_austerity.pdf">Draft</a>
 </p>
 
 <h3>How Big Is the Big Push? The Macroeconomic Effects of a Large-Scale Regional Development Program</h3>
@@ -40,10 +36,6 @@ sidebar_link: true
 
 <h2>Publications</h2>
 
-<a href="https://www.sciencedirect.com/science/article/pii/S1570677X21000423"><h3>Did Covid-19 Hit Harder in Peripheral Areas? The Case of Italian Municipalities</h3></a> 
-<p>Joint with F. Armillei and T. Fletcher<br>
-<em>Economics and Human Biology</em>
-</p>
-<p>
-  <a href="https://www.lavoce.info/archives/69032/dai-dati-comunali-una-mappa-del-rischio-coronavirus/">Press Article</a>
+<h3><a href="https://www.sciencedirect.com/science/article/pii/S1570677X21000423">Did Covid-19 Hit Harder in Peripheral Areas? The Case of Italian Municipalities</a> </h3>
+<em>Economics and Human Biology</em> --  <a href="https://www.lavoce.info/archives/69032/dai-dati-comunali-una-mappa-del-rischio-coronavirus/">Press Article</a>
 </p>
