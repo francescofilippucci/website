@@ -5,26 +5,28 @@ sidebar_link: true
 ---
 
 <p class="message">
-  My policy work is tightly related to my research: the analysis of current affairs allows me to get relevant research ideas, build useful datasets and methods, and valorize my results. 
-  
-  I worked as a policy evaluator with the Institute for Public Policies and for the Italian Presidency of the Council. I was the founder of the think tank of young economists Tortuga, and my contributions to the public debate include articles in national and specialized press.
+My policy work stems from my experience at the OECD Economics Department, as well as previous roles at the Institute for Public Policy and the Italian Presidency of the Council. I also write for national and specialized media, and I founded <a href="https://www.tortuga-econ.it/">Tortuga </a>, a think tank of young economists, of which I am now a proud alumnus.
 </p>
 
-<h2>Institute for Public Policies</h2> <a href="https://www.ipp.eu/">ipp.eu</a> - Affiliated Economist  
+<h2>Technical reports</h2>
+<h3><a href="https://www.ipp.eu/wp-content/uploads/2024/01/1_jeune_1_solution_apprentissage-1.pdf" style="color: black; text-decoration: none;">Impact Evaluation of Apprenticeships Subsidies in the French Recovery Plan <em>(Évaluation du plan « 1 jeune 1 solution) </em></a> </h3>
+<em>Institut de Politiques Publiques</em> 
+
+<h3><a href="https://www.ipp.eu/wp-content/uploads/2024/01/1_jeune_1_solution_apprentissage-1.pdf" style="color: black; text-decoration: none;">Impact Evaluation of Apprenticeships Subsidies in the French Recovery Plan <em>(Évaluation du plan « 1 jeune 1 solution) </em></a> </h3>
+<em>Institut de Politiques Publiques</em> 
+
+<h3><a href="https://www.ipp.eu/wp-content/uploads/2024/01/1_jeune_1_solution_apprentissage-1.pdf" style="color: black; text-decoration: none;">Impact Evaluation of Apprenticeships Subsidies in the French Recovery Plan <em>(Évaluation du plan « 1 jeune 1 solution) </em></a> </h3>
+<em>Institut de Politiques Publiques</em> 
 
 
-<img src="ipp.png" ALIGN="right" width="150" height="200">I am principal investigator for the impact evaluation of the temporary apprenticeships subsidies, introduced by the French pandemic recovery plan. The project is financed by the French Government, and conducted within the Institute for Public Policies (Institut de Politiques Publiques, IPP), co-authored with Audrey Rain.
+<h3><a href="https://www.ipp.eu/wp-content/uploads/2024/01/1_jeune_1_solution_apprentissage-1.pdf" style="color: black; text-decoration: none;">Impact Evaluation of Apprenticeships Subsidies in the French Recovery Plan <em>(Évaluation du plan « 1 jeune 1 solution) </em></a> </h3>
+<em>Institut de Politiques Publiques</em> 
 
-<h2>Italian Presidency of the Council </h2> Technical Task-Force for Economic Policy (2022) 
+<h3><a href="https://www.ipp.eu/wp-content/uploads/2024/01/1_jeune_1_solution_apprentissage-1.pdf" style="color: black; text-decoration: none;">Impact Evaluation of Public Investments in Education  <em>(Évaluation du plan « 1 jeune 1 solution) </em></a> </h3>
+<em>Evaluation Italian Presidency of the Council -- Technical Task-Force for Economic Policy</em>  --  <a href="https://www.aiel.it/Submissions/Get_Abstract?submission_id=2496">Academic spinoff</a>
 
 
-<img src="chigi.png" ALIGN="right" width="150" height="200">The task force produced policy briefs on the potential impact at the municipality level of the Mission 1 (Digitalization and Innovation, jointly with Carlo Cambini) and 4 (Education and Research, jointly with Jacopo Bassetto) of the National Recovery and Resilience Plan. 
-
-<h2>Tortuga</h2> <a href="https://www.tortuga-econ.it/">tortugaecon.eu</a> - Co-founder (2015-2021)
-
-<img src="tortuga.png" ALIGN="right" width="200" height="300">Tortuga is the first think tank of young economists in Italy, producing analysis and research on economic current affairs. Started by 6 students in 2015, nowadays counts more than 50 associates. The mission of Tortuga is to promote growth and equity, particularly inter-generational equity, through a more efficient policy-making in Italy. In 2019 we wrote a book, "Ci Pensiamo Noi", launching 10 policy proposals for youths in Italy.
-
-<h2>Selected articles</h2> 
+<h2>Selected press articles</h2> 
 <ul>
   <li><a href="https://www.econopoly.ilsole24ore.com/2021/06/11/lavoro-covid-cig-licenziamenti/"> Lavoro, quali settori sono stati protetti dalle politiche anti-Covid? </a> - Econopoly, Il Sole 24 Ore 06/11/2021</li>
   <li><a href="https://www.lavoce.info/archives/65919/ripartire-dalle-competenze//"> Competenze sul lavoro, la crisi come opportunit&agrave;   </a> - Lavoce.info, 4/24/2020 </li>

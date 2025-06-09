@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-  My research focuses on applied economics, with a focus on labor markets, public economics, and technological change.
+  My research focuses on applied economics, covering labor markets, public economics, and technological change.
 </p>
 
 <h2>Working Papers</h2>
@@ -34,14 +34,14 @@ sidebar_link: true
  <em>Submitted</em>
 </p>
 
-<h3>How Big Is the Big Push? The Macroeconomic Effects of a Large-Scale Regional Development Program</h3>
-<p> Joint with A. Cerrato<br>
- <em>Submitted</em>
+<h3>Aggregate Productivity Gains from Artificial Intelligence: a Sectoral Perspective</h3>
+<p> Joint with P. Gal and M. Schief<br>
+ <em>Submitted</em><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260318">Pre-print</a>
 </p>
 
 <h2>Publications</h2>
 
 <h3><a href="https://www.sciencedirect.com/science/article/pii/S1570677X21000423" style="color: black; text-decoration: none;">Did Covid-19 Hit Harder in Peripheral Areas? The Case of Italian Municipalities</a> </h3>
-<p> Joint with F.Armillei and T. Fletcher<br>
+<p> Joint with F.Armillei and T.<br>
 <em>Economics and Human Biology</em> --  <a href="https://www.lavoce.info/archives/69032/dai-dati-comunali-una-mappa-del-rischio-coronavirus/">Press Article</a>
 </p>
