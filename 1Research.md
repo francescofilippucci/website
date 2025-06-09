@@ -10,6 +10,16 @@ sidebar_link: true
 
 <h2>Working Papers</h2>
 
+<h3>How Big Is the Big Push? The Macroeconomic Effects of a Large-Scale Regional Development Program</h3>
+<p> Joint with A. Cerrato --
+ <em>Submitted</em>
+</p>
+
+<h3>Aggregate Productivity Gains from Artificial Intelligence: a Sectoral Perspective</h3>
+<p> Joint with P. Gal and M. Schief --
+ <em>Submitted</em> -- <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260318">Pre-print</a> · <a href="pdf\aggregateGainsFromAI (1).pdf">Slides</a>
+</p>
+
 <h3>What Do NEETs Need? The Effect of Activation Policies and Cash Transfers</h3>
 <p><em>Submitted</em> --  <a href="pdf\slides_job_mkt.pdf">Slides</a> · 
   <a href="pdf\Capture.JPG">Draft</a> · 
@@ -30,15 +40,6 @@ sidebar_link: true
 <em>Submitted</em> --  <a href="pdf\draft_austerity.pdf">Draft</a>
 </p>
 
-<h3>How Big Is the Big Push? The Macroeconomic Effects of a Large-Scale Regional Development Program</h3>
-<p> Joint with A. Cerrato --
- <em>Submitted</em>
-</p>
-
-<h3>Aggregate Productivity Gains from Artificial Intelligence: a Sectoral Perspective</h3>
-<p> Joint with P. Gal and M. Schief --
- <em>Submitted</em> -- <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260318">Pre-print</a> · <a href="pdf\aggregateGainsFromAI (1).pdf">Slides</a>
-</p>
 
 <h2>Publications</h2>
 
