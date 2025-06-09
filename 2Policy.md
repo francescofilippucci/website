@@ -12,7 +12,7 @@ My policy work stems from my experience at the OECD Economics Department, as wel
 <h3><a href="https://www.oecd.org/en/publications/miracle-or-myth-assessing-the-macroeconomic-productivity-gains-from-artificial-intelligence_b524a072-en.html" style="color: black; text-decoration: none;">Miracle or Myth? Assessing the macroeconomic productivity gains from Artificial Intelligence</a> </h3>
 <em>OECD Artificial Intelligence Papers</em> --  <a href="https://cepr.org/voxeu/columns/miracle-or-myth-assessing-macroeconomic-productivity-gains-artificial-intelligence">VoxEU Summary</a>
 
-<h3><a href="https://www.oecd.org/en/publications/the-impact-of-artificial-intelligence-on-productivity-distribution-and-growth_8d900037-en.html" style="color: black; text-decoration: none;">The impact of Artificial Intelligence on productivity, distribution and growth<em>(Évaluation du plan « 1 jeune 1 solution) </a> </h3>
+<h3><a href="https://www.oecd.org/en/publications/the-impact-of-artificial-intelligence-on-productivity-distribution-and-growth_8d900037-en.html" style="color: black; text-decoration: none;">The impact of Artificial Intelligence on productivity, distribution and growth</a> </h3>
 <em>OECD Artificial Intelligence Papers</em> --  <a href="https://cepr.org/voxeu/columns/should-ai-stay-or-should-ai-go-promises-and-perils-ai-productivity-and-growth">VoxEU Summary</a>
 
 <h3><a href="https://www.oecd.org/en/publications/digitalisation-of-financial-services-access-to-finance-and-aggregate-economic-performance_10c7e583-en.html" style="color: black; text-decoration: none;">Digitalisation of financial services, access to finance and aggregate economic performance </a> </h3>
