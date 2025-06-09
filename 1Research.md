@@ -12,7 +12,7 @@ sidebar_link: true
 
 <h3>What Do NEETs Need? The Effect of Activation Policies and Cash Transfers</h3>
 <p><em>Submitted</em> --  <a href="pdf/slides_job_mkt.pdf">Slides</a> · 
-  <a href="pdf/Filippucci_NEETs.pdf">Draft</a> · 
+  <a href="_includes\pdf\Capture.JPG">Draft</a> · 
   <a href="pdf/DA_evaluation_GJ.pdf">Policy Note (French Ministry of Labor)</a> · 
   <a href="pdf/https://www.lesechos.fr/economie-france/social/emploi-les-effets-positifs-de-la-garantie-jeunes-1898043">Press</a>
 </p>
