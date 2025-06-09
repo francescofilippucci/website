@@ -14,13 +14,15 @@ sidebar_link: true
 <p><em>Submitted</em> --  <a href="pdf\slides_job_mkt.pdf">Slides</a> · 
   <a href="pdf\Capture.JPG">Draft</a> · 
   <a href="pdf\DA_evaluation_GJ.pdf">Policy Note (French Ministry of Labor)</a> · 
-  <a href="https://www.lesechos.fr/economie-france/social/emploi-les-effets-positifs-de-la-garantie-jeunes-1898043">Press</a>
+  <a href="https://www.lesechos.fr/economie-france/social/emploi-les-effets-positifs-de-la-garantie-jeunes-1898043">Press</a><em>
+  Awards: <a href="https://magazine.fbk.eu/en/news/the-fbk-irvapp-best-paper-in-public-policy-evaluation-award-2023-goes-to-francesco-filippucci/">FBK-IRVAPP Best Paper in Policy Evaluation award</a>
 </p>
 
 <h3>Who Profits from General Training Subsidies? Evidence from a French Individual Learning Account</h3>
 <p>Joint with E. Corazza -- 
   <a href="pdf\presentation_chaire_nov2020.pdf">Slides</a> · 
-  <a href="pdf\Draft_CPF.pdf">Draft</a> . Awards: <a href="https://www.aiel.it/Home/Prize_Winners?prize_id=1">Ezio Tarantelli Prize of the Italian Labour Economists Association</a>
+  <a href="pdf\Draft_CPF.pdf">Draft</a> <em>
+  Awards: <a href="https://www.aiel.it/Home/Prize_Winners?prize_id=1">Ezio Tarantelli Prize of the Italian Labour Economists Association</a>
 </p>
 
 <h3>Balanced Budget Requirements and Local Austerity Multipliers</h3>
