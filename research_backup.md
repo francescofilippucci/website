@@ -1,8 +1,4 @@
----
-layout: page
-title: Research
-sidebar_link: true
----
+
 
 <p class="message">
   My approach relies on using policy evaluation to derive relevant structural parameters, focusing on Labor and Public Economics. My PhD thesis exploits a program for NEETs, an individual learning account, and local budget rules to derive insights on -- respectively -- job search behavior, the elasticities of training supply, and the local spending multiplier. 
