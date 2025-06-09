@@ -8,22 +8,21 @@ sidebar_link: true
 My policy work stems from my experience at the OECD Economics Department, as well as previous roles at the Institute for Public Policy and the Italian Presidency of the Council. I also write for national and specialized media, and I founded <a href="https://www.tortuga-econ.it/">Tortuga </a>, a think tank of young economists, of which I am now a proud alumnus.
 </p>
 
-<h2>Technical reports</h2>
-<h3><a href="https://www.ipp.eu/wp-content/uploads/2024/01/1_jeune_1_solution_apprentissage-1.pdf" style="color: black; text-decoration: none;">Impact Evaluation of Apprenticeships Subsidies in the French Recovery Plan <em>(Évaluation du plan « 1 jeune 1 solution) </em></a> </h3>
-<em>Institut de Politiques Publiques</em> 
+<h2>Publications and Technical Reports</h2>
+<h3><a href="https://www.oecd.org/en/publications/miracle-or-myth-assessing-the-macroeconomic-productivity-gains-from-artificial-intelligence_b524a072-en.html" style="color: black; text-decoration: none;">Miracle or Myth? Assessing the macroeconomic productivity gains from Artificial Intelligence</a> </h3>
+<em>OECD Artificial Intelligence Papers</em> --  <a href="https://cepr.org/voxeu/columns/miracle-or-myth-assessing-macroeconomic-productivity-gains-artificial-intelligence">VoxEU Summary</a>
+
+<h3><a href="https://www.oecd.org/en/publications/the-impact-of-artificial-intelligence-on-productivity-distribution-and-growth_8d900037-en.html" style="color: black; text-decoration: none;">The impact of Artificial Intelligence on productivity, distribution and growth<em>(Évaluation du plan « 1 jeune 1 solution) </a> </h3>
+<em>OECD Artificial Intelligence Papers</em> --  <a href="https://cepr.org/voxeu/columns/should-ai-stay-or-should-ai-go-promises-and-perils-ai-productivity-and-growth">VoxEU Summary</a>
+
+<h3><a href="https://www.oecd.org/en/publications/digitalisation-of-financial-services-access-to-finance-and-aggregate-economic-performance_10c7e583-en.html" style="color: black; text-decoration: none;">Digitalisation of financial services, access to finance and aggregate economic performance </a> </h3>
+<em>OECD Economics Department Working Papers</em> 
 
 <h3><a href="https://www.ipp.eu/wp-content/uploads/2024/01/1_jeune_1_solution_apprentissage-1.pdf" style="color: black; text-decoration: none;">Impact Evaluation of Apprenticeships Subsidies in the French Recovery Plan <em>(Évaluation du plan « 1 jeune 1 solution) </em></a> </h3>
 <em>Institut de Politiques Publiques</em> 
 
-<h3><a href="https://www.ipp.eu/wp-content/uploads/2024/01/1_jeune_1_solution_apprentissage-1.pdf" style="color: black; text-decoration: none;">Impact Evaluation of Apprenticeships Subsidies in the French Recovery Plan <em>(Évaluation du plan « 1 jeune 1 solution) </em></a> </h3>
-<em>Institut de Politiques Publiques</em> 
-
-
-<h3><a href="https://www.ipp.eu/wp-content/uploads/2024/01/1_jeune_1_solution_apprentissage-1.pdf" style="color: black; text-decoration: none;">Impact Evaluation of Apprenticeships Subsidies in the French Recovery Plan <em>(Évaluation du plan « 1 jeune 1 solution) </em></a> </h3>
-<em>Institut de Politiques Publiques</em> 
-
-<h3><a href="https://www.ipp.eu/wp-content/uploads/2024/01/1_jeune_1_solution_apprentissage-1.pdf" style="color: black; text-decoration: none;">Impact Evaluation of Public Investments in Education  <em>(Évaluation du plan « 1 jeune 1 solution) </em></a> </h3>
-<em>Evaluation Italian Presidency of the Council -- Technical Task-Force for Economic Policy</em>  --  <a href="https://www.aiel.it/Submissions/Get_Abstract?submission_id=2496">Academic spinoff</a>
+<h3>Evaluation of Public Investments in Education </h3>
+<em>Italian Presidency of the Council -- Technical Task-Force for Economic Policy</em>  --  <a href="https://www.aiel.it/Submissions/Get_Abstract?submission_id=2496">Academic spinoff</a>
 
 
 <h2>Selected press articles</h2> 
