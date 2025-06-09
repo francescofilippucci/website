@@ -35,7 +35,7 @@ sidebar_link: true
 
 <h3>Aggregate Productivity Gains from Artificial Intelligence: a Sectoral Perspective</h3>
 <p> Joint with P. Gal and M. Schief --
- <em>Submitted</em> -- <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260318">Pre-print</a>
+ <em>Submitted</em> -- <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5260318">Pre-print</a> . <a href="aggregateGainsFromAI (1).pdf">Slides</a>
 </p>
 
 <h2>Publications</h2>
