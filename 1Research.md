@@ -5,13 +5,13 @@ sidebar_link: true
 ---
 
 <p class="message">
-  My research focuses on applied economics, with an emphasis on labor markets, public economics, and technological change.
+  My research focuses on applied economics, with a focus on labor markets, public economics, and technological change.
 </p>
 
 <h2>Working Papers</h2>
 
 <h3>What Do NEETs Need? The Effect of Activation Policies and Cash Transfers</h3>
-<p><em>Submitted</em> — 
+<p><em>Submitted</em><br>  
   <a href="slides_job_mkt.pdf">Slides</a> · 
   <a href="Filippucci_NEETs.pdf">Draft</a> · 
   <a href="DA_evaluation_GJ.pdf">Policy Note (French Ministry of Labor)</a> · 
@@ -26,25 +26,24 @@ sidebar_link: true
 </p>
 
 <h3>Balanced Budget Requirements and Local Austerity Multipliers</h3>
-<p><em>Submitted</em><br>
-  Joint with A. Cerrato and S. Valle
+<p> Joint with A. Cerrato and S. Valle<br>
+<em>Submitted</em>
 </p>
 <p>
   <a href="draft_austerity.pdf">Draft</a>
 </p>
 
 <h3>How Big Is the Big Push? The Macroeconomic Effects of a Large-Scale Regional Development Program</h3>
-<p><em>Submitted</em><br>
-  Joint with A. Cerrato
+<p> Joint with A. Cerrato<br>
+ <em>Submitted</em>
 </p>
 
 <h2>Publications</h2>
 
-<h3>Did Covid-19 Hit Harder in Peripheral Areas? The Case of Italian Municipalities</h3>
-<p>Joint with F. Armillei and T. Fletcher</p>
+<a href="https://www.sciencedirect.com/science/article/pii/S1570677X21000423"><h3>Did Covid-19 Hit Harder in Peripheral Areas? The Case of Italian Municipalities</h3></a> 
+<p>Joint with F. Armillei and T. Fletcher<br>
+<em>Economics and Human Biology</em>
+</p>
 <p>
-  <a href="https://www.sciencedirect.com/science/article/pii/S1570677X21000423">Published in *Economics and Human Biology*</a> · 
-  <a href="Covid_Paper_2_0___Published (1).pdf">Preprint</a> · 
-  <a href="https://www.localopportunitieslab.it/wp-content/uploads/2020/10/Covid_paper-4.pdf">LOL Working Paper</a> · 
   <a href="https://www.lavoce.info/archives/69032/dai-dati-comunali-una-mappa-del-rischio-coronavirus/">Press Article</a>
 </p>
