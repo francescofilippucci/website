@@ -18,8 +18,7 @@ sidebar_link: true
 </p>
 
 <h3>Who Profits from General Training Subsidies? Evidence from a French Individual Learning Account</h3>
-<p>Joint with E. Corazza</p>
-<p>
+<p>Joint with E. Corazza --
   <a href="presentation_chaire_nov2020.pdf">Slides</a> · 
   <a href="Draft_CPF.pdf">Draft</a>
 </p>

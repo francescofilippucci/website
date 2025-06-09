@@ -5,7 +5,7 @@ sidebar_link: true
 ---
 
 <p class="message">
-My policy work stems from my experience at the OECD Economics Department, as well as previous roles at the Institute for Public Policy and the Italian Presidency of the Council. I also write for national and specialized media, and I founded <a href="https://www.tortuga-econ.it/">Tortuga </a>, a think tank of young economists, of which I am now a proud alumnus.
+My policy work stems from my experience at the <a href="https://www.oecd.org/en/about/directorates/economics-department.html">OECD Economics Department</a>, as well as previous roles at the <a href="https://www.ipp.eu/">French Institute for Public Policy</a> and the Italian Presidency of the Council. I also write for national and specialized media, and I founded <a href="https://www.tortuga-econ.it/">Tortuga </a>, a think tank of young economists, of which I am now a proud alumnus.
 </p>
 
 <h2>Publications and Technical Reports</h2>
@@ -18,7 +18,7 @@ My policy work stems from my experience at the OECD Economics Department, as wel
 <h3><a href="https://www.oecd.org/en/publications/digitalisation-of-financial-services-access-to-finance-and-aggregate-economic-performance_10c7e583-en.html" style="color: black; text-decoration: none;">Digitalisation of financial services, access to finance and aggregate economic performance </a> </h3>
 <em>OECD Economics Department Working Papers</em> 
 
-<h3><a href="https://www.ipp.eu/wp-content/uploads/2024/01/1_jeune_1_solution_apprentissage-1.pdf" style="color: black; text-decoration: none;">Impact Evaluation of Apprenticeships Subsidies in the French Recovery Plan <em>(Évaluation du plan « 1 jeune 1 solution) </em></a> </h3>
+<h3><a href="https://www.ipp.eu/wp-content/uploads/2024/01/1_jeune_1_solution_apprentissage-1.pdf" style="color: black; text-decoration: none;">Impact Evaluation of Apprenticeships Subsidies in the French Recovery Plan <em>(Évaluation du plan « 1 jeune 1 solution ») </em></a> </h3>
 <em>Institut de Politiques Publiques</em> 
 
 <h3>Evaluation of Public Investments in Education </h3>
