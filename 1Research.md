@@ -34,8 +34,14 @@ sidebar_link: true
  <em>Submitted</em>
 </p>
 
+<h3>How Big Is the Big Push? The Macroeconomic Effects of a Large-Scale Regional Development Program</h3>
+<p> Joint with A. Cerrato<br>
+ <em>Submitted</em>
+</p>
+
 <h2>Publications</h2>
 
-<h3><a href="https://www.sciencedirect.com/science/article/pii/S1570677X21000423">Did Covid-19 Hit Harder in Peripheral Areas? The Case of Italian Municipalities</a> </h3>
+<h3><a href="https://www.sciencedirect.com/science/article/pii/S1570677X21000423" style="color: black; text-decoration: none;">Did Covid-19 Hit Harder in Peripheral Areas? The Case of Italian Municipalities</a> </h3>
+<p> Joint with F.Armillei and T. Fletcher<br>
 <em>Economics and Human Biology</em> --  <a href="https://www.lavoce.info/archives/69032/dai-dati-comunali-una-mappa-del-rischio-coronavirus/">Press Article</a>
 </p>
