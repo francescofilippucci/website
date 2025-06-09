@@ -22,7 +22,7 @@ My policy work stems from my experience at the <a href="https://www.oecd.org/en/
 <em>Institut de Politiques Publiques</em> 
 
 <h3>Evaluation of Public Investments in Education </h3>
-<em>Italian Presidency of the Council -- Technical Task-Force for Economic Policy</em>  --  <a href="https://www.aiel.it/Submissions/Get_Abstract?submission_id=2496">Academic spinoff</a>
+<em>Italian Presidency of the Council </em>  --  <a href="https://www.aiel.it/Submissions/Get_Abstract?submission_id=2496">Academic spinoff</a>
 
 
 <h2>Selected press articles</h2> 
