@@ -14,7 +14,7 @@ sidebar_link: true
 <p><em>Submitted</em> --  <a href="pdf\slides_job_mkt.pdf">Slides</a> · 
   <a href="pdf\Capture.JPG">Draft</a> · 
   <a href="pdf\DA_evaluation_GJ.pdf">Policy Note (French Ministry of Labor)</a> · 
-  <a href="pdf\https://www.lesechos.fr/economie-france/social/emploi-les-effets-positifs-de-la-garantie-jeunes-1898043">Press</a>
+  <a href="https://www.lesechos.fr/economie-france/social/emploi-les-effets-positifs-de-la-garantie-jeunes-1898043">Press</a>
 </p>
 
 <h3>Who Profits from General Training Subsidies? Evidence from a French Individual Learning Account</h3>
