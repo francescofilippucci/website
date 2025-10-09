@@ -22,7 +22,7 @@ sidebar_link: true
 
 <h3>What Do NEETs Need? The Effect of Activation Policies and Cash Transfers</h3>
 <p><em>Submitted</em> --  <a href="pdf\slides_job_mkt.pdf">Slides</a> · 
-  <a href="pdf\Capture.JPG">Draft</a> · 
+  <a href="pdf\draft_mar25.pdf">Draft</a> · 
   <a href="pdf\DA_evaluation_GJ.pdf">Policy Note (French Ministry of Labor)</a> · 
   <a href="https://www.lesechos.fr/economie-france/social/emploi-les-effets-positifs-de-la-garantie-jeunes-1898043">Press</a><br>
   Awards: <a href="https://magazine.fbk.eu/en/news/the-fbk-irvapp-best-paper-in-public-policy-evaluation-award-2023-goes-to-francesco-filippucci/">FBK-IRVAPP Best Paper in Policy Evaluation award</a>
