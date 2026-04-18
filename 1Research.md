@@ -4,6 +4,7 @@ title: Research
 sidebar_link: true
 sidebar_href: "/#research"
 short_title: "Working Papers"
+sidebar_sort_order: 1
 ---
 
 <p class="message">

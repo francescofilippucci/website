@@ -4,6 +4,7 @@ title: Policy
 sidebar_link: true
 sidebar_href: "/#policy"
 short_title: "Policy Publications"
+sidebar_sort_order: 3
 ---
 
 <p class="message">
