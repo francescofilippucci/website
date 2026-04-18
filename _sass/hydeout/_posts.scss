@@ -91,3 +91,20 @@ article + *,
 button.disqus-load {
   margin-top: 1em;
 }
+
+/* Reduce font sizes for article lists on the homepage sections */
+#research h3,
+#policy h3 {
+  font-size: 1rem; /* slightly smaller than default h3 */
+  margin-top: 0.5rem;
+}
+
+#research p,
+#policy p {
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+
+#policy ul li {
+  font-size: 0.95rem;
+}
