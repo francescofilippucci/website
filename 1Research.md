@@ -2,6 +2,7 @@
 layout: page
 title: Research
 sidebar_link: true
+sidebar_href: "/#research"
 ---
 
 <p class="message">

@@ -2,6 +2,7 @@
 layout: page
 title: Policy
 sidebar_link: true
+sidebar_href: "/#policy"
 ---
 
 <p class="message">
