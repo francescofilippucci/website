@@ -93,18 +93,20 @@ button.disqus-load {
 }
 
 /* Reduce font sizes for article lists on the homepage sections */
-#research h3,
-#policy h3 {
-  font-size: 1rem; /* slightly smaller than default h3 */
+body.home #research h3,
+body.home #policy h3 {
+  /* Make article titles ~2-4 points smaller than default headings */
+  font-size: 0.9rem;
   margin-top: 0.5rem;
 }
 
-#research p,
-#policy p {
-  font-size: 0.95rem;
+body.home #research p,
+body.home #policy p {
+  font-size: 0.9rem;
   line-height: 1.45;
 }
 
-#policy ul li {
-  font-size: 0.95rem;
+body.home #research ul li,
+body.home #policy ul li {
+  font-size: 0.9rem;
 }
