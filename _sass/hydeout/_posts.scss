@@ -110,3 +110,13 @@ body.home #research ul li,
 body.home #policy ul li {
   font-size: 0.9rem;
 }
+
+/* Also reduce emphasized text, small tags and inline links inside the sections */
+body.home #research em,
+body.home #research small,
+body.home #research a,
+body.home #policy em,
+body.home #policy small,
+body.home #policy a {
+  font-size: 0.9rem;
+}

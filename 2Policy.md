@@ -3,6 +3,7 @@ layout: page
 title: Policy
 sidebar_link: true
 sidebar_href: "/#policy"
+short_title: "Publications & Reports"
 ---
 
 <p class="message">

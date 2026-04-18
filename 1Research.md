@@ -3,6 +3,7 @@ layout: page
 title: Research
 sidebar_link: true
 sidebar_href: "/#research"
+short_title: "Working Papers"
 ---
 
 <p class="message">
