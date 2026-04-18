@@ -120,3 +120,11 @@ body.home #policy small,
 body.home #policy a {
   font-size: 0.9rem;
 }
+
+/* More specific: meta paragraphs under sections */
+body.home #research p.meta,
+body.home #policy p.meta {
+  font-size: 0.9rem;
+  margin-top: 0.25rem;
+  margin-bottom: 0.75rem;
+}
