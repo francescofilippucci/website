@@ -4,6 +4,8 @@
 
 Update the website every 3 months with new papers that appear on Google Scholar, while keeping the current hand-curated site content stable and avoiding fragile automation.
 
+This strategy is designed for quarterly updates, not live synchronization.
+
 ## Recommended Approach
 
 Use a semi-automatic quarterly import workflow:
