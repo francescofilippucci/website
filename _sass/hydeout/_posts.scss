@@ -130,7 +130,14 @@ body.home #policy a {
 
 body.home #research h3 a,
 body.home #policy h3 a {
-  font-size: inherit;
+  font-size: 1.3rem;
+}
+
+@media (min-width: $large-breakpoint) {
+  body.home #research h3 a,
+  body.home #policy h3 a {
+    font-size: 0.9rem;
+  }
 }
 
 /* More specific: meta paragraphs under sections */
