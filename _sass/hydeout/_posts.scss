@@ -96,8 +96,15 @@ button.disqus-load {
 body.home #research h3,
 body.home #policy h3 {
   /* Make article titles ~2-4 points smaller than default headings */
-  font-size: 0.9rem;
+  font-size: 1rem;
   margin-top: 0.5rem;
+}
+
+@media (min-width: $large-breakpoint) {
+  body.home #research h3,
+  body.home #policy h3 {
+    font-size: 0.9rem;
+  }
 }
 
 body.home #research p,
