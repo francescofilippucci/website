@@ -119,12 +119,14 @@ body.home #policy ul li {
 }
 
 /* Also reduce emphasized text, small tags and inline links inside the sections */
-body.home #research em,
-body.home #research small,
-body.home #research a,
-body.home #policy em,
-body.home #policy small,
-body.home #policy a {
+body.home #research p em,
+body.home #research p small,
+body.home #research p a,
+body.home #research li a,
+body.home #policy p em,
+body.home #policy p small,
+body.home #policy p a,
+body.home #policy li a {
   font-size: 0.9rem;
 }
 
@@ -133,9 +135,16 @@ body.home #policy h3 a {
   font-size: 1.3rem;
 }
 
+body.home #research h3 em,
+body.home #policy h3 em {
+  font-size: inherit;
+}
+
 @media (min-width: $large-breakpoint) {
   body.home #research h3 a,
-  body.home #policy h3 a {
+  body.home #policy h3 a,
+  body.home #research h3 em,
+  body.home #policy h3 em {
     font-size: 0.9rem;
   }
 }
