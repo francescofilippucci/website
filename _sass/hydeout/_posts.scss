@@ -128,6 +128,11 @@ body.home #policy a {
   font-size: 0.9rem;
 }
 
+body.home #research h3 a,
+body.home #policy h3 a {
+  font-size: inherit;
+}
+
 /* More specific: meta paragraphs under sections */
 body.home #research p.meta,
 body.home #policy p.meta {
