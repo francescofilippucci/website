@@ -23,6 +23,19 @@ document.addEventListener('DOMContentLoaded', function () {
   let activeLink = null;
 
   function updateActive() {
+    const nearBottom =
+      window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 2;
+
+    if (nearBottom) {
+      const lastItem = linkToSection[linkToSection.length - 1];
+      if (activeLink && activeLink !== lastItem.link) activeLink.classList.remove('active');
+      if (lastItem.link !== activeLink) {
+        lastItem.link.classList.add('active');
+        activeLink = lastItem.link;
+      }
+      return;
+    }
+
     // Choose the section closest to the top but not below a threshold
     const offset = 150; // px from top to consider "active"
     let current = linkToSection[0];

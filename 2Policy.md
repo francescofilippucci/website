@@ -3,7 +3,7 @@ layout: page
 title: Policy
 sidebar_link: true
 sidebar_href: "/#policy"
-short_title: "Policy Publications"
+short_title: "Policy publications"
 sidebar_sort_order: 3
 ---
 
