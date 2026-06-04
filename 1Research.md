@@ -31,9 +31,10 @@ sidebar_sort_order: 1
   Awards: <a href="https://magazine.fbk.eu/en/news/the-fbk-irvapp-best-paper-in-public-policy-evaluation-award-2023-goes-to-francesco-filippucci/">FBK-IRVAPP Best Paper in Policy Evaluation award</a>
 </p>
 
-<h3>Who Profits from General Training Subsidies? Evidence from a French Individual Learning Account</h3>
+<h3>The Equilibrium Effects of General Training Subsidies: Evidence from a French Individual Learning Account</h3>
 <p>Joint with E. Corazza -- 
   <a href="pdf\Draft_feb26.pdf">Draft</a> <br>
+  Previous version circulated under the title "Who Profits from General Training Subsidies? Evidence from a French Individual Learning Account" <br>
   Awards: <a href="https://www.aiel.it/Home/Prize_Winners?prize_id=1">Ezio Tarantelli Prize of the Italian Labour Economists Association</a>
 </p>
 
